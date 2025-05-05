@@ -1,0 +1,80 @@
+[2025-04-24 19:01:01] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 19:01:01] [INFO] GET Anfragen von index.html → MIME: 
+[2025-04-24 19:01:01] [INFO] GET Anfragen von index.html -> Home-Start
+[2025-04-24 19:00:17] [INFO] GET Anfragen von kontakt.html → MIME: 
+[2025-04-24 19:00:13] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 19:00:13] [INFO] Kontaktformular erhalten: Name=Pascal | E-Mail=hbklh@hgio�ui | Nachricht=asfasdfasdfasdf
+[2025-04-24 18:59:58] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 18:59:58] [INFO] Kontaktformular erhalten: Name=golf  | E-Mail=auto@salkfjsadf | Nachricht=FINDE ICH SUPER 
+
+[2025-04-24 18:59:53] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 18:59:53] [INFO] Kontaktformular erhalten: Name=Pascal | E-Mail=hbklh@hgio�ui | Nachricht=asfasdfasdfasdf
+[2025-04-24 18:59:48] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 18:59:48] [INFO] GET Anfragen von index.html → MIME: 
+[2025-04-24 18:59:48] [INFO] GET Anfragen von index.html -> Home-Start
+================================================================================
+[2025-04-24 18:59:03] [INFO] Server gestartet auf http://localhost:8080/
+================================================================================
+================================================================================
+[2025-04-24 18:58:47] [INFO] Server gestoppt
+================================================================================
+[2025-04-24 18:58:43] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 18:58:43] [INFO] GET Anfragen von index.html → MIME: 
+[2025-04-24 18:58:43] [INFO] GET Anfragen von index.html -> Home-Start
+[2025-04-24 16:50:53] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 16:50:53] [INFO] Kontaktformular erhalten: Name=golf  | E-Mail=auto@salkfjsadf | Nachricht=FINDE ICH SUPER 
+
+[2025-04-24 16:49:56] [INFO] GET Anfragen von kontakt.html → MIME: 
+[2025-04-24 16:49:51] [INFO] GET Anfragen von index.html → MIME: 
+[2025-04-24 16:49:41] [INFO] GET Anfragen von log.txt → MIME: 
+[2025-04-24 16:49:39] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 16:49:39] [INFO] GET Anfragen von style.css → MIME: 
+[2025-04-24 16:49:27] [INFO] GET Anfragen von fuchs.webp → MIME: 
+[2025-04-24 16:49:23] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 16:49:23] [INFO] GET Anfragen von kontakt.html → MIME: 
+[2025-04-24 16:49:18] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 16:49:18] [INFO]  /mime-report Anfragen von mime-report
+[2025-04-24 16:49:08] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 16:49:08] [INFO] GET Anfragen von index.html → MIME: 
+[2025-04-24 16:49:08] [INFO] GET Anfragen von index.html -> Home-Start
+================================================================================
+[2025-04-24 16:49:04] [INFO] Server gestartet auf http://localhost:8080/
+================================================================================
+================================================================================
+[2025-04-24 16:14:36] [INFO] Server gestoppt
+================================================================================
+[2025-04-24 16:02:05] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 16:02:05] [INFO] Kontaktformular erhalten: Name=Pascal | E-Mail=hbklh@hgio�ui | Nachricht=asfasdfasdfasdf
+[2025-04-24 16:01:34] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 16:01:34] [INFO] Kontaktformular erhalten: Name=Pascal | E-Mail=mein@gslakjfd | Nachricht=asfasdfasdfasdf
+[2025-04-24 15:56:23] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 15:56:23] [INFO] Kontaktformular erhalten: Name=Pascal | E-Mail=mein@gslakjfd | Nachricht=asfasdfasdfasdf
+================================================================================
+[2025-04-24 15:56:16] [INFO] Server gestartet auf http://localhost:8080/
+================================================================================
+================================================================================
+[2025-04-24 15:56:05] [INFO] Server gestoppt
+================================================================================
+[2025-04-24 15:48:48] [INFO] POST empfangen: name=Pascal&email=mein%40gslakjfd&nachricht=asfasdfasdfasdf
+[2025-04-24 15:48:25] [INFO] GET Anfragen von kontakt.html → MIME: 
+[2025-04-24 15:48:10] [INFO] GET Anfragen von index.html → MIME: 
+[2025-04-24 15:48:10] [INFO] GET Anfragen von index.html -> Home-Start
+[2025-04-24 15:47:56] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 15:47:52] [INFO] GET Anfragen von favicon.ico → MIME: 
+[2025-04-24 15:47:52] [INFO]  /mime-report Anfragen von mime-report
+================================================================================
+[2025-04-24 15:39:23] [INFO] Server gestartet auf http://localhost:8080/
+================================================================================
+================================================================================
+[2025-04-24 15:19:30] [INFO] Server gestoppt
+================================================================================
+[2025-04-24 15:19:25] [INFO] GET Anfragen von index.html → MIME: 
+[2025-04-24 15:19:25] [INFO] GET Anfragen von index.html -> Home-Start
+[2025-04-24 15:19:22] [INFO]  /mime-report Anfragen von mime-report
+[2025-04-24 15:19:21] [INFO]  /mime-report Anfragen von mime-report
+[2025-04-24 15:19:20] [INFO]  /mime-report Anfragen von mime-report
+[2025-04-24 15:19:19] [INFO]  /mime-report Anfragen von mime-report
+[2025-04-24 15:19:18] [INFO]  /mime-report Anfragen von mime-report
+================================================================================
+[2025-04-24 15:19:03] [INFO] Server gestartet auf http://localhost:8080/
+================================================================================

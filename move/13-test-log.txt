@@ -1,0 +1,36 @@
+[2025-04-14 22:26:40] --- User: 'erikam' wurde geloescht
+[2025-04-14 22:26:40] --- User: 'maxm' wurde geloescht
+[2025-04-14 22:26:32] --- user 'erikam' existiert bereits - wird uebersprungen.
+[2025-04-14 22:26:32] --- user 'maxm' existiert bereits - wird uebersprungen.
+[2025-04-14 22:26:27] --- user 'erikam' erfolgreich erstellt und zu Gruppe 'Benutzer' hinzugefuegt.
+[2025-04-14 22:26:27] --- user 'maxm' erfolgreich erstellt und zu Gruppe 'Benutzer' hinzugefuegt.
+[2025-04-14 22:26:21] --- User: 'erikam' wurde geloescht
+[2025-04-14 22:26:21] --- User: 'maxm' wurde geloescht
+[2025-04-14 22:26:07] --- user 'erikam' erfolgreich erstellt und zu Gruppe 'Benutzer' hinzugefuegt.
+[2025-04-14 22:26:07] --- user 'maxm' erfolgreich erstellt und zu Gruppe 'Benutzer' hinzugefuegt.
+[2025-04-14 22:22:05] --- user 'erikam' ist nicht vorhanden
+[2025-04-14 22:22:05] --- user 'maxm' ist nicht vorhanden
+[2025-04-14 22:21:58] --- user 'erikam' erfolgreich erstellt und zu Gruppe 'Benutzer' hinzugefuegt.
+[2025-04-14 22:21:58] --- user 'maxm' erfolgreich erstellt und zu Gruppe 'Benutzer' hinzugefuegt.
+[2025-04-14 22:21:16] --- user 'erikam' erfolgreich erstellt und zu Gruppe 'Benutzer' hinzugefuegt.
+[2025-04-14 22:21:16] --- user 'maxm' erfolgreich erstellt und zu Gruppe 'Benutzer' hinzugefuegt.
+[2025-04-14 22:20:59] --- Bei user 'erikam' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:20:59] --- Bei user 'maxm' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:18:48] --- Bei user 'erikam' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:18:48] --- Bei user 'maxm' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:17:37] --- Bei user 'erikam' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:17:37] --- Bei user 'maxm' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:17:24] --- Bei user 'erikam' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:17:24] --- Bei user 'maxm' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:16:36] --- Bei user 'erikam' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:16:36] --- Bei user 'maxm' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:16:26] --- Bei user 'erikam' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:16:26] --- Bei user 'maxm' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:15:29] --- Bei user 'erikam' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:15:29] --- Bei user 'maxm' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:11:53] --- Bei user 'erikam' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:11:53] --- Bei user 'maxm' ist ein unerwarteter Fehler aufgetreten
+[2025-04-14 22:09:59] --- user 'erikam' ist nicht vorhanden
+[2025-04-14 22:09:59] --- user 'maxm' ist nicht vorhanden
+[2025-04-14 22:02:37] --- user 'erikam' ist nicht vorhanden
+[2025-04-14 22:02:37] --- user 'maxm' ist nicht vorhanden

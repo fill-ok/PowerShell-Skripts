@@ -1,0 +1,53 @@
+[2025-04-15 16:03:08] --- 192.168.1.1 Antwortzeit: 0  Status: TimedOut
+[2025-04-15 16:03:03] --- microsoft.com Antwortzeit: 101  Status: Success
+[2025-04-15 16:03:03] --- google.com Antwortzeit: 19  Status: Success
+[2025-04-15 16:03:03] --- localhost Antwortzeit: 0  Status: Success
+[2025-04-15 16:02:55] --- 192.168.1.1 Antwortzeit: 0  Status: TimedOut
+[2025-04-15 16:02:50] --- microsoft.com Antwortzeit: 102  Status: Success
+[2025-04-15 16:02:50] --- google.com Antwortzeit: 19  Status: Success
+[2025-04-15 16:02:50] --- localhost Antwortzeit: 0  Status: Success
+[2025-04-15 16:02:44] --- 192.168.1.1 Antwortzeit: 0  Status: TimedOut
+[2025-04-15 16:02:40] --- microsoft.com Antwortzeit: 102  Status: Success
+[2025-04-15 16:02:40] --- google.com Antwortzeit: 19  Status: Success
+[2025-04-15 16:02:40] --- localhost Antwortzeit: 0  Status: Success
+[2025-04-15 16:02:19] --- 192.168.1.1 Antwortzeit: 0  Status: TimedOut
+[2025-04-15 16:02:14] --- microsoft.com Antwortzeit: 102  Status: Success
+[2025-04-15 16:02:14] --- google.com Antwortzeit: 20  Status: Success
+[2025-04-15 16:02:14] --- localhost Antwortzeit: 0  Status: Success
+[2025-04-15 15:24:30] --- 192.168.1.1 Antwortzeit: 0  Status: TimedOut
+[2025-04-15 15:24:25] --- microsoft.com Antwortzeit: 125  Status: Success
+[2025-04-15 15:24:25] --- google.com Antwortzeit: 18  Status: Success
+[2025-04-15 15:24:25] --- localhost Antwortzeit: 0  Status: Success
+[2025-04-15 15:24:14] --- 192.168.1.1 Antwortzeit: 0  Status: TimedOut
+[2025-04-15 15:24:10] --- microsoft.com Antwortzeit: 126  Status: Success
+[2025-04-15 15:24:10] --- google.com Antwortzeit: 18  Status: Success
+[2025-04-15 15:24:10] --- localhost Antwortzeit: 0  Status: Success
+[2025-04-15 15:23:13] --- 192.168.1.1, Antwortzeit: 0
+[2025-04-15 15:23:08] --- microsoft.com, Antwortzeit: 126
+[2025-04-15 15:23:08] --- google.com, Antwortzeit: 19
+[2025-04-15 15:23:08] --- localhost, Antwortzeit: 0
+[2025-04-15 15:22:54] --- 192.168.1.1, Antwortzeit: 
+[2025-04-15 15:22:50] --- microsoft.com, Antwortzeit: 
+[2025-04-15 15:22:49] --- google.com, Antwortzeit: 
+[2025-04-15 15:22:49] --- localhost, Antwortzeit: 
+[2025-04-15 15:21:16] --- 192.168.1.1, Antwortzeit: 0
+[2025-04-15 15:21:12] --- microsoft.com, Antwortzeit: 0
+[2025-04-15 15:21:12] --- google.com, Antwortzeit: 0
+[2025-04-15 15:21:12] --- localhost, Antwortzeit: 0
+[2025-04-15 15:19:23] --- 192.168.1.1, Antwortzeit: 0
+[2025-04-15 15:19:18] --- microsoft.com, Antwortzeit: 0
+[2025-04-15 15:19:18] --- google.com, Antwortzeit: 0
+[2025-04-15 15:19:18] --- localhost, Antwortzeit: 0
+[2025-04-15 15:16:51] --- 192.168.1.1, 0
+[2025-04-15 15:16:46] --- microsoft.com, 126
+[2025-04-15 15:16:46] --- google.com, 17
+[2025-04-15 15:16:46] --- localhost, 0
+[2025-04-15 15:16:25] --- , 0
+[2025-04-15 15:16:21] --- , 126
+[2025-04-15 15:16:20] --- , 20
+[2025-04-15 15:16:20] --- , 0
+[2025-04-15 15:15:28] --- Bei user '' ist ein unerwarteter Fehler aufgetreten
+[2025-04-15 15:15:28] --- Bei user '' ist ein unerwarteter Fehler aufgetreten
+[2025-04-15 15:13:46] --- Bei user '' ist ein unerwarteter Fehler aufgetreten
+[2025-04-15 15:15:28] --- Bei user '' ist ein unerwarteter Fehler aufgetreten
+[2025-04-15 15:13:46] --- Bei user '' ist ein unerwarteter Fehler aufgetreten
