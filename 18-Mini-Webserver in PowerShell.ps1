@@ -188,16 +188,3 @@ while ($listener.IsListening) {
     }
 }
 
-<#
-Feature | Status | Details
-HTTP-Server mit HttpListener | ✅ | Lokaler Listener auf localhost:8080
-GET-Handling | ✅ | Dateien werden ausgeliefert, inkl. MIME-Erkennung
-POST-Handling | ✅ | Kontaktformular wird verarbeitet
-Formulardaten speichern (CSV) | ✅ | Kontakt wird in .csv abgelegt
-Log-Funktion mit Leveln & Trenner | ✅ | Flexible Logfunktion mit [INFO], [WARN], etc.
-MIME-Type-Erkennung | ✅ | Über die Registry mit Fallback
-404-Fehlerbehandlung | ✅ | Fehlermeldung + StatusCode korrekt
-/mime-report-Ansicht | ✅ | Übersicht der Dateien nach MIME
-Start- und Stop-Logik | ✅ | exit-Route + Stop-Meldung im Log
-Standard-Datei (index.html) | ✅ | Wird bei / geladen
-#> 
